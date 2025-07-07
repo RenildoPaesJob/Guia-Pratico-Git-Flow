@@ -1,10 +1,7 @@
-````markdown
 # 🛠️ Trabalhando com **Git Flow**
 
 > Guia rápido para organizar seu fluxo de trabalho com Git Flow.
 > Exemplo de tagueamento de versão.
-
----
 
 ## 1. Inicialização
 
