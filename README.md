@@ -122,10 +122,8 @@ git push origin --tags
 
 ## 📚 Referência
 
-[Git Flow Cheat Sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-
-```
-```
+[Git Flow Cheat Sheet]
+(https://danielkummer.github.io/git-flow-cheatsheet/)
 
 ## 📋 Versionamento Semântico (SemVer)
 
